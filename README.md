@@ -1,0 +1,1 @@
+The first assignement of The Odin Project: create a page that looks like the front page of Google
