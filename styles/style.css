@@ -1,0 +1,8 @@
+#search-bar {
+    display: flex;
+    width: 50%;
+    border: 1px solid #dfe1e5;
+}
+#search-image {
+    width: 20px;
+}
